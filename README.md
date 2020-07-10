@@ -1,4 +1,4 @@
-![Avichal Srivastava](https://github.com/avichalsri/avichalsri/blob/master/aviport.jpg?raw=true)
+<img src="https://github.com/avichalsri/avichalsri/blob/master/aviport.jpg?raw=true" width="500" height="500">
 ## Hi there 👋 I am Avichal Srivastava
 
 - 🔭 I’m currently working in **Software Engineering Domain** 
