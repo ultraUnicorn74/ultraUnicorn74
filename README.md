@@ -1,5 +1,6 @@
 <p align="center"><img src="https://github.com/avichalsri/avichalsri/blob/master/aviport.jpg?raw=true" width="500" height="500"></p>
-## Hi there 👋 I am Avichal Srivastava
+
+## Hi there 👋 I am Avichal Srivastava 
 
 - 🔭 I’m currently working in **Software Engineering Domain** 
 - 🌱 I’m currently learning _Angular and Nodejs_
