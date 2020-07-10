@@ -1,4 +1,4 @@
-![Avichal Srivastava](aviport.jpg)
+![Avichal Srivastava](images/aviport.jpg)
 ## Hi there 👋 I am Avichal Srivastava
 
 - 🔭 I’m currently working in **Software Engineering Domain** 
