@@ -5,6 +5,5 @@
 - 👯 I’m looking to collaborate on _Web Development Projects_
 - 🤔 I’m looking for help with _Job Opportunities_ being in my final year.
 - 💬 Ask me about anything, from tech to non-tech, if I can, I will surely lend a helping hand. ***I am always open to connecting people.***
-- 📫 How to reach me: **avichalsrivastava24@gmail.com** || **avichalsri.github.io**
+- 📫 How to reach me: **avichalsrivastava24@gmail.com** || [Portfolio](avichalsri.github.io) || [LinkedIn](https://www.linkedin.com/in/avichal-srivastava-552951179/)
 - ⚡ Fun fact: I am a night owl😉
-[LinkedIn](https://www.linkedin.com/in/avichal-srivastava-552951179/)
