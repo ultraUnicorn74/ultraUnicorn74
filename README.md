@@ -7,3 +7,4 @@
 - 💬 Ask me about anything, from tech to non-tech, if I can, I will surely lend a helping hand. ***I am always open to connecting people.***
 - 📫 How to reach me: **avichalsrivastava24@gmail.com** || **avichalsri.github.io**
 - ⚡ Fun fact: I am a night owl😉
+[LinkedIn](https://www.linkedin.com/in/avichal-srivastava-552951179/)
