@@ -1,3 +1,4 @@
+![Avichal Srivastava](aviport.jpg)
 ## Hi there 👋 I am Avichal Srivastava
 
 - 🔭 I’m currently working in **Software Engineering Domain** 
