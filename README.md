@@ -1,5 +1,5 @@
 <br>
-<img src="https://github.com/ultraUnicorn74/ultraUnicorn74/blob/master/assets/girl with laptop.jpeg?raw=true" alt="" style="max-width:100%;">
+<img src="https://github.com/ultraUnicorn74/ultraUnicorn74/blob/master/assets/Girls with laptop.jpeg?raw=true" alt="" style="max-width:100%;">
 
 <br>
 
