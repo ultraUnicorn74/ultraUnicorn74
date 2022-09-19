@@ -11,7 +11,7 @@
 
 
 <!--Introduction -->
-I am an **Aspiring Software Developer**:women_technologist:. Currently Pursuing my graduation from **JSSATE Bangalore** in Information Science and Engineering  🏫. I am a native resident of Patna, Bihar 🏠.
+I am an **Aspiring Software Developer**:women_technologist:. graduate from **JSSATE Bangalore** in Information Science and Engineering  🏫. I am a native resident of Patna, Bihar 🏠.
 <br>
 I possess sound knowledge about Python, MySQL, c, c++, Java, DSA and currently learning many new things day by day 🖥️.
 <br>
